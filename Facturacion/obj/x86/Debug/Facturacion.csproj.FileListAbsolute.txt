@@ -1,0 +1,17 @@
+C:\Facturacion\Facturacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.Agregar_Producto.resources
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.Factura.resources
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.FACTURACION_USUARIOS.resources
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.Form1.resources
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.VerTodosLosProductos.resources
+C:\Facturacion\Facturacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Facturacion\Facturacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+C:\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+C:\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.Properties.Resources.resources
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.exe
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.pdb
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.ListaFactura.resources
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.Form2.resources
+C:\Facturacion\Facturacion\obj\x86\Debug\Facturacion.Ingreso.resources

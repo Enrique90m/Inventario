@@ -1,0 +1,26 @@
+          EM Sistems - Contable Software S.A de C.V 
+                (N.19) Sucursal : Apodaca
+                   Avenida Miguel aleman #19
+                    Apodaca N.L. Mexico
+
+
+-------------------------Datos del cliente -----------------------
+Cliente: Kathleen Crowley brandon        Localidad : SteelVille,California
+DNI: 93737                               CP: 87373
+Direccion: Downing Street # 78762        Provincia: Los angeles,california
+Pais: USA
+Fecha de compra: 01/12/2011
+-------------------------------------------------------------------
+             Hora:10:46  Dia:01/12/2011 0:00:00
+***********************************************************************
+ Descripcion                   Precio 
+***********************************************************************
+      1                          $ Laptop HP Pavilion 
+                                 $ mantenimiento
+***********************************************************************
+                         Subtotal: $15998,9000000000
+                         Iva : $1600
+                         Total : $17598,7900000000
+***********************************************************************
+               Gracias por su compra!
+                    Vuelva Pronto

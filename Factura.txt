@@ -1,0 +1,24 @@
+          EM Sistems - Contable Software S.A de C.V 
+                (N.19) Sucursal : Apodaca
+                   Avenida Miguel aleman #19
+                    Apodaca N.L. Mexico
+
+
+-------------------------Datos del cliente -----------------------
+Cliente: Enrique Mendoza Hernandez        Localidad : San roke
+DNI: 93737                               CP: 87373
+Direccion: Priv san fernando        Provincia: San miguel
+Pais: Mexico
+Fecha de compra: 10/12/2011
+-------------------------------------------------------------------
+             Hora:00:22  Dia:30/11/2011 0:00:00
+***********************************************************************
+ Descripcion                   Precio 
+***********************************************************************
+***********************************************************************
+                         Subtotal: $0,0000000000
+                         Iva : $0
+                         Total : $0,0000000000
+***********************************************************************
+               Gracias por su compra!
+                    Vuelva Pronto
